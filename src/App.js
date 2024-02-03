@@ -1,4 +1,3 @@
-import "./App.css";
 import "./index.css";
 import MainPage from "./MainPage";
 import Contact from "./ContactUs";
