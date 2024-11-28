@@ -1,4 +1,4 @@
-# Music player / Сайт Hazelton
+# Hazelton's website / Сайт Hazelton
 
 [🇺🇸 English](#english-version) | [🇺🇦 Українська](#українська-версія)
 
